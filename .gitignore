@@ -1,0 +1,7 @@
+/node_modules/
+/app/
+/test/
+.idea
+.cram
+/bower
+npm-debug.log

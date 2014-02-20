@@ -1,0 +1,21 @@
+{
+    "name": "cujojs-coffeescript-seed",
+    "version": "0.0.1",
+    "homepage": "https://github.com/gogamoga/cujojs-coffeescript-seed",
+    "authors": [
+        "gogamoga <gogamoga@gmail.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "curl": "~0.8",
+        "wire": "~0.10"
+    }
+}
+
