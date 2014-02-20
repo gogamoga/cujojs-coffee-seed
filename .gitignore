@@ -3,5 +3,5 @@
 /test/
 .idea
 .cram
-/bower
+/bower_components/
 npm-debug.log
